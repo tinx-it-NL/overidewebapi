@@ -1,11 +1,11 @@
 {
-  "name": "tinxit/overridewebapi",
+  "name": "tinxit/override-webapi",
   "description": "Override the Magento 2 storecodes for admin in the API",
   "require": {
-    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0"
+    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0"
   },
   "type": "magento2-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
